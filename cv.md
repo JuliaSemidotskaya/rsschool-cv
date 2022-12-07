@@ -1,6 +1,6 @@
-#Yulia Semidotskaya
+#Юлия Семидоцкая
 
-##Contacts
+##Контакты
 
 +375 (29) 7939935;
 
@@ -8,42 +8,38 @@ https://t.me/JuliaSemidotskaya
 
 yuliasemidotskaya@gmail.com
 
-IT recruiter / IT sourcer with 1 year of experience.
-I am constantly improving my skills by  following recruiting news and by watching training videos.
-Ready to spend a lot of time to achieve my goals.
+IT рекрутер / IT сорсер с опытом работы 1 год.
+Я постоянно совершенствую свои навыки, следя за новостями рекрутинга и просматривая обучающие видео.
+Готов потратить много времени для достижения своих целей.
 
-Education
+Образования
 
-Sherlocks-Team 2021 |Recruitment Search for candidates
+Sherlocks-Team 2021 |Подбор персонала Поиск кандидатов
 
-SKILLS
+Навыки
 
-Sourcing strategy,
+Стратегия поиска,
 
-Searching for candidates (linkedin, career.habr, hh.ru, GitHub, rabota.by, x-ray requests), 
+Поиск кандидатов (linkedin, career.habr, hh.ru, GitHub, rabota.by, x-ray requests), 
 
-Work with 2 - 3 vacancies at the same time,
+Работа с 2 - 3 вакансиями одновременно,
 
-Evaluating profiles and resumes, 
+Оценка профилей и резюме, 
 
-Sending job offer letters (link, email, telegram), 
+Отправка писем с предложением работы (linkedin, email, telegram), 
 
-Answering candidates' questions, 
+Ответы на вопросы кандидатов, 
 
-Maintaining trusting business relationships, 
+Обратная связь по результатам интервью, 
 
-Inviting to interviews, 
+Ведение базы данных кандидатов,
 
-Feedback on interview results, 
+Автоматизированные системы подбора кадров.
 
-Maintaining candidate database,
+Опыт
 
-Automated recruitment management systems.
+Поиск кандидатов (linkedin, hh.ru, GitHub, rabota.by, x-ray requests), оценка профилей и резюме, отправка писем с предложением работы (ссылка, email, telegram), ответы на вопросы кандидатов, поддержание доверительных деловых отношений, приглашение на интервью, обратная связь по результатам интервью, ведение базы кандидатов.
 
-Experience
+Опыт поиска и закрытия вакансий на следующие позиции: (middle, senior, lead) Golang, Rust, Solana, Solidity, NodeJS, ExpressJS, NestJS, ReactJS, NextJS, VueJS, NuxtJS, AngularJS, DevOps engineer, SRE, Infrastructure engineer, Technical Product Manager, CTO.
 
-Searching for candidates (linkedin, hh.ru, GitHub, rabota.by, x-ray requests), evaluating profiles and resumes, sending job offer letters (link, email, telegram), answering candidates' questions, maintaining trusting business relationships, inviting to interviews, feedback on interview results, maintaining candidate database.
-
-Experience in searching and closing vacancies for the following positions: (middle, senior, lead) Golang, Rust, Solana, Solidity, NodeJS, ExpressJS, NestJS, ReactJS, NextJS, VueJS, NuxtJS, AngularJS, DevOps engineer, SRE, Infrastructure engineer, Technical Product Manager, CTO.
-
-Experience in sourcing candidates for blockchain projects.
+Опыт поиска кандидатов для блокчейн-проектов.
